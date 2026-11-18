@@ -1,0 +1,5 @@
+Metric,Mean Δ ↑,95% CI Low,95% CI High,Win Rate ↑ (%),Tie Rate (%),n
+Fusion,-0.020,-0.090,0.060,6.0,86.0,100
+Missing,0.040,-0.020,0.100,7.0,90.0,100
+Binding Error,0.100,0.050,0.170,10.0,90.0,100
+Object Correctness,0.000,0.000,0.000,0.0,100.0,100

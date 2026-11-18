@@ -1,0 +1,5 @@
+Label,n,Exact Agreement Rate (%)
+binding_error,200,52.0
+fusion,200,54.5
+missing,200,53.5
+object_correctness,200,85.5

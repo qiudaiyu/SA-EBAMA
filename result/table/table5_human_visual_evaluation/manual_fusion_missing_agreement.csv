@@ -1,0 +1,5 @@
+label,n,agreement_rate
+binding_error,200,0.52
+fusion,200,0.545
+missing,200,0.535
+object_correctness,200,0.855

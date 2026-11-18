@@ -1,0 +1,9 @@
+Dataset,Method,n,Fusion Rate ↓ (%),Missing Rate ↓ (%),Binding Error ↓ (%),Object Correct ↑ (%)
+ABC-6K-subset,EBAMA,25,8.0,8.0,16.0,100.0
+ABC-6K-subset,SA-EBAMA,25,16.0,4.0,4.0,100.0
+AnE,EBAMA,25,24.0,16.0,12.0,96.0
+AnE,SA-EBAMA,25,28.0,16.0,4.0,96.0
+DVMP,EBAMA,25,36.0,28.0,32.0,100.0
+DVMP,SA-EBAMA,25,36.0,32.0,20.0,100.0
+T2I-Spatial,EBAMA,25,16.0,36.0,8.0,96.0
+T2I-Spatial,SA-EBAMA,25,12.0,20.0,0.0,96.0

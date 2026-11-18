@@ -1,0 +1,101 @@
+dataset,split,prompt_id,prompt,subprompts_json,object_count,attribute_count,source,subtype,has_color,has_spatial,difficulty_tag
+AnE,formal,ane_animal_animal_0000,a monkey and a turtle,"[""a monkey"", ""a turtle""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0001,a cat and a lion,"[""a cat"", ""a lion""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0002,a dog and a bear,"[""a dog"", ""a bear""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0003,a bird and a rabbit,"[""a bird"", ""a rabbit""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0004,a lion and a monkey,"[""a lion"", ""a monkey""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0005,a elephant and a frog,"[""a elephant"", ""a frog""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0006,a bear and a elephant,"[""a bear"", ""a elephant""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0007,a cat and a bear,"[""a cat"", ""a bear""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0008,a dog and a mouse,"[""a dog"", ""a mouse""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0009,a horse and a rabbit,"[""a horse"", ""a rabbit""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0010,a bird and a monkey,"[""a bird"", ""a monkey""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0011,a rabbit and a mouse,"[""a rabbit"", ""a mouse""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0012,a dog and a rabbit,"[""a dog"", ""a rabbit""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0013,a lion and a mouse,"[""a lion"", ""a mouse""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0014,a cat and a bird,"[""a cat"", ""a bird""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0015,a elephant and a monkey,"[""a elephant"", ""a monkey""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0016,a lion and a turtle,"[""a lion"", ""a turtle""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0017,a lion and a rabbit,"[""a lion"", ""a rabbit""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0018,a dog and a lion,"[""a dog"", ""a lion""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0019,a monkey and a mouse,"[""a monkey"", ""a mouse""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0020,a dog and a monkey,"[""a dog"", ""a monkey""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0021,a bird and a elephant,"[""a bird"", ""a elephant""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0022,a bear and a turtle,"[""a bear"", ""a turtle""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0023,a bear and a mouse,"[""a bear"", ""a mouse""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0024,a lion and a frog,"[""a lion"", ""a frog""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0025,a bear and a rabbit,"[""a bear"", ""a rabbit""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0026,a cat and a mouse,"[""a cat"", ""a mouse""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0027,a monkey and a rabbit,"[""a monkey"", ""a rabbit""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0028,a dog and a bird,"[""a dog"", ""a bird""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0029,a horse and a mouse,"[""a horse"", ""a mouse""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0030,a horse and a monkey,"[""a horse"", ""a monkey""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0031,a horse and a frog,"[""a horse"", ""a frog""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0032,a bear and a lion,"[""a bear"", ""a lion""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_animal_0033,a turtle and a rabbit,"[""a turtle"", ""a rabbit""]",2,0,ane_data.py,animal_animal,0,0,two_object
+AnE,formal,ane_animal_object_0034,a rabbit with a glasses,"[""a rabbit"", ""a glasses""]",2,0,ane_data.py,animal_object,0,0,two_object
+AnE,formal,ane_animal_object_0035,a horse and a pink balloon,"[""a horse"", ""a pink balloon""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0036,a monkey with a bow,"[""a monkey"", ""a bow""]",2,0,ane_data.py,animal_object,0,0,two_object
+AnE,formal,ane_animal_object_0037,a mouse and a purple chair,"[""a mouse"", ""a purple chair""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0038,a monkey and a green balloon,"[""a monkey"", ""a green balloon""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0039,a dog with a crown,"[""a dog"", ""a crown""]",2,0,ane_data.py,animal_object,0,0,two_object
+AnE,formal,ane_animal_object_0040,a monkey and a brown bench,"[""a monkey"", ""a brown bench""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0041,a dog and a gray clock,"[""a dog"", ""a gray clock""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0042,a frog and a black apple,"[""a frog"", ""a black apple""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0043,a mouse and a pink apple,"[""a mouse"", ""a pink apple""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0044,a elephant with a bow,"[""a elephant"", ""a bow""]",2,0,ane_data.py,animal_object,0,0,two_object
+AnE,formal,ane_animal_object_0045,a elephant and a green bowl,"[""a elephant"", ""a green bowl""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0046,a rabbit with a crown,"[""a rabbit"", ""a crown""]",2,0,ane_data.py,animal_object,0,0,two_object
+AnE,formal,ane_animal_object_0047,a elephant and a green balloon,"[""a elephant"", ""a green balloon""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0048,a bird and a black suitcase,"[""a bird"", ""a black suitcase""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0049,a rabbit with a bow,"[""a rabbit"", ""a bow""]",2,0,ane_data.py,animal_object,0,0,two_object
+AnE,formal,ane_animal_object_0050,a mouse with a bow,"[""a mouse"", ""a bow""]",2,0,ane_data.py,animal_object,0,0,two_object
+AnE,formal,ane_animal_object_0051,a frog and a red suitcase,"[""a frog"", ""a red suitcase""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0052,a bear and a blue clock,"[""a bear"", ""a blue clock""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0053,a frog and a green clock,"[""a frog"", ""a green clock""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0054,a cat and a black chair,"[""a cat"", ""a black chair""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0055,a rabbit and a white balloon,"[""a rabbit"", ""a white balloon""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0056,a mouse and a brown backpack,"[""a mouse"", ""a brown backpack""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0057,a horse and a blue backpack,"[""a horse"", ""a blue backpack""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0058,a mouse and a red bench,"[""a mouse"", ""a red bench""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0059,a bear with a crown,"[""a bear"", ""a crown""]",2,0,ane_data.py,animal_object,0,0,two_object
+AnE,formal,ane_animal_object_0060,a monkey and a red car,"[""a monkey"", ""a red car""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0061,a lion and a white bench,"[""a lion"", ""a white bench""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0062,a horse and a green suitcase,"[""a horse"", ""a green suitcase""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0063,a turtle and a blue clock,"[""a turtle"", ""a blue clock""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0064,a dog with a glasses,"[""a dog"", ""a glasses""]",2,0,ane_data.py,animal_object,0,0,two_object
+AnE,formal,ane_animal_object_0065,a lion and a red car,"[""a lion"", ""a red car""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_animal_object_0066,a bird and a white clock,"[""a bird"", ""a white clock""]",2,1,ane_data.py,animal_object,1,0,two_object
+AnE,formal,ane_object_object_0067,a orange car and a red bench,"[""a orange car"", ""a red bench""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0068,a purple bowl and a black bench,"[""a purple bowl"", ""a black bench""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0069,a purple crown and a blue bench,"[""a purple crown"", ""a blue bench""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0070,a green backpack and a brown suitcase,"[""a green backpack"", ""a brown suitcase""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0071,a blue balloon and a blue bow,"[""a blue balloon"", ""a blue bow""]",2,1,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0072,a purple car and a pink apple,"[""a purple car"", ""a pink apple""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0073,a brown balloon and a pink car,"[""a brown balloon"", ""a pink car""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0074,a orange backpack and a purple car,"[""a orange backpack"", ""a purple car""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0075,a green glasses and a black crown,"[""a green glasses"", ""a black crown""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0076,a red bench and a yellow clock,"[""a red bench"", ""a yellow clock""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0077,a purple chair and a red bow,"[""a purple chair"", ""a red bow""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0078,a green glasses and a yellow chair,"[""a green glasses"", ""a yellow chair""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0079,a yellow glasses and a brown bow,"[""a yellow glasses"", ""a brown bow""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0080,a yellow bow and a orange bench,"[""a yellow bow"", ""a orange bench""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0081,a white glasses and a gray apple,"[""a white glasses"", ""a gray apple""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0082,a white bow and a white car,"[""a white bow"", ""a white car""]",2,1,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0083,a white balloon and a white apple,"[""a white balloon"", ""a white apple""]",2,1,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0084,a white car and a black bowl,"[""a white car"", ""a black bowl""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0085,a purple crown and a blue suitcase,"[""a purple crown"", ""a blue suitcase""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0086,a brown bowl and a green clock,"[""a brown bowl"", ""a green clock""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0087,a orange bowl and a purple apple,"[""a orange bowl"", ""a purple apple""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0088,a black crown and a red car,"[""a black crown"", ""a red car""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0089,a pink chair and a gray apple,"[""a pink chair"", ""a gray apple""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0090,a blue suitcase and a gray balloon,"[""a blue suitcase"", ""a gray balloon""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0091,a red glasses and a red suitcase,"[""a red glasses"", ""a red suitcase""]",2,1,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0092,a gray crown and a white clock,"[""a gray crown"", ""a white clock""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0093,a brown suitcase and a black clock,"[""a brown suitcase"", ""a black clock""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0094,a white suitcase and a white chair,"[""a white suitcase"", ""a white chair""]",2,1,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0095,a red backpack and a yellow bowl,"[""a red backpack"", ""a yellow bowl""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0096,a orange suitcase and a brown bench,"[""a orange suitcase"", ""a brown bench""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0097,a yellow glasses and a gray bowl,"[""a yellow glasses"", ""a gray bowl""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0098,a yellow backpack and a purple chair,"[""a yellow backpack"", ""a purple chair""]",2,2,ane_data.py,object_object,1,0,two_object
+AnE,formal,ane_object_object_0099,a pink bow and a gray apple,"[""a pink bow"", ""a gray apple""]",2,2,ane_data.py,object_object,1,0,two_object

@@ -1,0 +1,101 @@
+dataset,split,prompt_id,prompt,subprompts_json,object_count,attribute_count,source,subtype,has_color,has_spatial,difficulty_tag
+T2I-Spatial,formal,t2i_spatial_0000,a balloon on the right of a person,"[""a balloon"", ""a person""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0001,a pig near a cup,"[""a pig"", ""a cup""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0002,a woman on the right of a phone,"[""a woman"", ""a phone""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0003,a couch on the left of a dog,"[""a couch"", ""a dog""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0004,a boy on the left of a computer,"[""a boy"", ""a computer""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0005,a vase on the right of a cat,"[""a vase"", ""a cat""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0006,a butterfly on side of a cup,"[""a butterfly"", ""a cup""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0007,a suitcase on the left of a girl,"[""a suitcase"", ""a girl""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0008,a cat on the top of a candle,"[""a cat"", ""a candle""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0009,a cow on the top of a boy,"[""a cow"", ""a boy""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0010,a girl on the top of a refrigerator,"[""a girl"", ""a refrigerator""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0011,a table on the right of a man,"[""a table"", ""a man""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0012,a girl near a bag,"[""a girl"", ""a bag""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0013,a fish next to a train,"[""a fish"", ""a train""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0014,a desk on the bottom of a giraffe,"[""a desk"", ""a giraffe""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0015,a pig on the left of a lamp,"[""a pig"", ""a lamp""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0016,a girl on the left of a pig,"[""a girl"", ""a pig""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0017,a giraffe on the bottom of a suitcase,"[""a giraffe"", ""a suitcase""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0018,a sofa on the left of a frog,"[""a sofa"", ""a frog""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0019,a fish on side of a bag,"[""a fish"", ""a bag""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0020,a girl on the top of a cow,"[""a girl"", ""a cow""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0021,a television on the right of a person,"[""a television"", ""a person""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0022,a painting on the bottom of a horse,"[""a painting"", ""a horse""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0023,a horse on the bottom of a wallet,"[""a horse"", ""a wallet""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0024,a book on the top of a woman,"[""a book"", ""a woman""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0025,a frog on the top of a cup,"[""a frog"", ""a cup""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0026,a key on the right of a dog,"[""a key"", ""a dog""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0027,a mouse near a bag,"[""a mouse"", ""a bag""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0028,a pig on the left of a desk,"[""a pig"", ""a desk""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0029,a airplane on the right of a mouse,"[""a airplane"", ""a mouse""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0030,a cat on the bottom of a man,"[""a cat"", ""a man""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0031,a woman on the left of a plate,"[""a woman"", ""a plate""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0032,a frog on the left of a book,"[""a frog"", ""a book""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0033,a woman on the right of a wallet,"[""a woman"", ""a wallet""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0034,a chicken on side of a candle,"[""a chicken"", ""a candle""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0035,a person on the left of a vase,"[""a person"", ""a vase""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0036,a bee on the left of a refrigerator,"[""a bee"", ""a refrigerator""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0037,a mouse on the bottom of a phone,"[""a mouse"", ""a phone""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0038,a cow on side of a train,"[""a cow"", ""a train""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0039,a cat on the right of a table,"[""a cat"", ""a table""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0040,a girl next to a cow,"[""a girl"", ""a cow""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0041,a cat on the right of a sofa,"[""a cat"", ""a sofa""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0042,a frog on the right of a bag,"[""a frog"", ""a bag""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0043,a dog on the right of a wallet,"[""a dog"", ""a wallet""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0044,a computer on the bottom of a boy,"[""a computer"", ""a boy""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0045,a person on the left of a couch,"[""a person"", ""a couch""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0046,a sheep on side of a chair,"[""a sheep"", ""a chair""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0047,a fish on side of a sofa,"[""a fish"", ""a sofa""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0048,a bee on side of a couch,"[""a bee"", ""a couch""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0049,a bicycle on the bottom of a girl,"[""a bicycle"", ""a girl""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0050,a bird on the left of a clock,"[""a bird"", ""a clock""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0051,a boy on the left of a balloon,"[""a boy"", ""a balloon""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0052,a bird on the left of a woman,"[""a bird"", ""a woman""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0053,a man on the top of a sofa,"[""a man"", ""a sofa""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0054,a suitcase on the right of a mouse,"[""a suitcase"", ""a mouse""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0055,a plate on the left of a girl,"[""a plate"", ""a girl""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0056,a balloon on the bottom of a dog,"[""a balloon"", ""a dog""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0057,a painting on the right of a pig,"[""a painting"", ""a pig""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0058,a butterfly on the right of a couch,"[""a butterfly"", ""a couch""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0059,a bird on the right of a man,"[""a bird"", ""a man""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0060,a bee near a desk,"[""a bee"", ""a desk""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0061,a bird on side of a balloon,"[""a bird"", ""a balloon""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0062,a dog on the top of a sofa,"[""a dog"", ""a sofa""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0063,a airplane on the top of a horse,"[""a airplane"", ""a horse""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0064,a sheep on the left of a lamp,"[""a sheep"", ""a lamp""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0065,a pig on the top of a boy,"[""a pig"", ""a boy""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0066,a person on side of a cow,"[""a person"", ""a cow""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0067,a backpack on the top of a chicken,"[""a backpack"", ""a chicken""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0068,a mouse on side of a key,"[""a mouse"", ""a key""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0069,a mouse on the left of a train,"[""a mouse"", ""a train""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0070,a frog near a phone,"[""a frog"", ""a phone""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0071,a painting on the top of a rabbit,"[""a painting"", ""a rabbit""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0072,a woman near a bag,"[""a woman"", ""a bag""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0073,a girl on the bottom of a horse,"[""a girl"", ""a horse""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0074,a giraffe on the left of a balloon,"[""a giraffe"", ""a balloon""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0075,a frog near a chair,"[""a frog"", ""a chair""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0076,a key on the bottom of a horse,"[""a key"", ""a horse""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0077,a rabbit on side of a wallet,"[""a rabbit"", ""a wallet""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0078,a rabbit next to a train,"[""a rabbit"", ""a train""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0079,a key on the left of a butterfly,"[""a key"", ""a butterfly""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0080,a horse on side of a car,"[""a horse"", ""a car""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0081,a bird on the top of a person,"[""a bird"", ""a person""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0082,a fish near a car,"[""a fish"", ""a car""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0083,a bee on the left of a clock,"[""a bee"", ""a clock""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0084,a giraffe on the left of a car,"[""a giraffe"", ""a car""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0085,a woman on the left of a balloon,"[""a woman"", ""a balloon""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0086,a giraffe on the top of a airplane,"[""a giraffe"", ""a airplane""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0087,a plate on the bottom of a man,"[""a plate"", ""a man""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0088,a bird on side of a airplane,"[""a bird"", ""a airplane""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0089,a cup on the top of a butterfly,"[""a cup"", ""a butterfly""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0090,a bee on the left of a key,"[""a bee"", ""a key""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0091,a mouse on the top of a bowl,"[""a mouse"", ""a bowl""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0092,a turtle next to a bowl,"[""a turtle"", ""a bowl""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0093,a cow near a plate,"[""a cow"", ""a plate""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0094,a television on the top of a bird,"[""a television"", ""a bird""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0095,a frog on the left of a refrigerator,"[""a frog"", ""a refrigerator""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0096,a boy on the right of a pig,"[""a boy"", ""a pig""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0097,a butterfly next to a train,"[""a butterfly"", ""a train""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0098,a woman next to a turtle,"[""a woman"", ""a turtle""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial
+T2I-Spatial,formal,t2i_spatial_0099,a sheep on the left of a clock,"[""a sheep"", ""a clock""]",2,0,T2I-CompBench spatial_val.txt,spatial,0,1,spatial

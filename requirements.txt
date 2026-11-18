@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+diffusers==0.21.1
+accelerate==0.23.0
+transformers==4.30.2
+huggingface-hub==0.20.3
+spacy==3.6.1
+spacy-transformers==1.2.5
+numpy==1.23.5
+einops==0.6.1
+opencv-python-headless==4.8.1.78
+pillow
+matplotlib
+ipython==8.12.3
+tqdm==4.65.0
+pyrallis==0.3.1
+git+https://github.com/openai/CLIP.git@d05afc436d78f1c48dc0dbf8e5980a9d471f35f6
+pandas==2.2.3

@@ -1,0 +1,101 @@
+dataset,split,prompt_id,prompt,subprompts_json,object_count,attribute_count,source,subtype,has_color,has_spatial,difficulty_tag
+DVMP,formal,dvmp_0000,a skewered strawberry and a white checkered curved crown and a modern hat,"[""a skewered strawberry"", ""a white checkered curved crown"", ""a modern hat""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0001,a sleepy furry monkey and a furry elephant,"[""a sleepy furry monkey"", ""a furry elephant""]",2,3,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0002,a beige strawberry and a furry sleepy bird,"[""a beige strawberry"", ""a furry sleepy bird""]",2,3,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0003,a furry sleepy bird and a sliced banana,"[""a furry sleepy bird"", ""a sliced banana""]",2,3,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0004,a spotted baby frog,"[""a spotted baby frog""]",1,2,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0005,a yellow tomato,"[""a yellow tomato""]",1,1,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0006,a spotted furry mouse,"[""a spotted furry mouse""]",1,2,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0007,a skewered tomato and a sliced strawberry and an orange elephant,"[""a skewered tomato"", ""a sliced strawberry"", ""an orange elephant""]",3,3,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0008,a furry monkey and a sleepy lion and a red banana,"[""a furry monkey"", ""a sleepy lion"", ""a red banana""]",3,3,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0009,a sliced banana and a green checkered metal camera and a gray skewered apple,"[""a sliced banana"", ""a green checkered metal camera"", ""a gray skewered apple""]",3,6,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0010,a brown sliced tomato,"[""a brown sliced tomato""]",1,2,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0011,a red spotted penguin and a baby furry turtle and a sleepy furry panda,"[""a red spotted penguin"", ""a baby furry turtle"", ""a sleepy furry panda""]",3,6,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0012,a pink bird,"[""a pink bird""]",1,1,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0013,a modern balloon,"[""a modern balloon""]",1,1,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0014,a sliced banana and a skewered tomato,"[""a sliced banana"", ""a skewered tomato""]",2,2,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0015,a red bow and a furry baby penguin,"[""a red bow"", ""a furry baby penguin""]",2,3,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0016,an orange metal suitcase and a metal spiky bench and a brown sliced banana,"[""an orange metal suitcase"", ""a metal spiky bench"", ""a brown sliced banana""]",3,6,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0017,a baby gorilla and a furry spotted horse,"[""a baby gorilla"", ""a furry spotted horse""]",2,3,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0018,a yellow wooden metal bow and a green metal camera,"[""a yellow wooden metal bow"", ""a green metal camera""]",2,5,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0019,a furry baby horse,"[""a furry baby horse""]",1,2,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0020,a gray tomato,"[""a gray tomato""]",1,1,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0021,a purple sliced tomato,"[""a purple sliced tomato""]",1,2,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0022,a sleepy frog and a baby spotted panda,"[""a sleepy frog"", ""a baby spotted panda""]",2,3,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0023,a sleepy baby elephant,"[""a sleepy baby elephant""]",1,2,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0024,an orange sliced tomato and a sliced tomato and a sliced apple,"[""an orange sliced tomato"", ""a sliced tomato"", ""a sliced apple""]",3,4,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0025,a purple shoe and a pink spiky wooden crown and a spotted bench,"[""a purple shoe"", ""a pink spiky wooden crown"", ""a spotted bench""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0026,a purple sliced banana and a skewered apple,"[""a purple sliced banana"", ""a skewered apple""]",2,3,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0027,a green metal balloon and a spotted metal car,"[""a green metal balloon"", ""a spotted metal car""]",2,4,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0028,a skewered banana and a modern suitcase,"[""a skewered banana"", ""a modern suitcase""]",2,2,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0029,a baby gorilla,"[""a baby gorilla""]",1,1,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0030,a gray baby zebra and a red sliced tomato,"[""a gray baby zebra"", ""a red sliced tomato""]",2,4,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0031,a baby furry horse and a pink turtle and an orange spotted backpack,"[""a baby furry horse"", ""a pink turtle"", ""an orange spotted backpack""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0032,a blue spotted furry frog and a white sleepy furry gorilla and a baby frog,"[""a blue spotted furry frog"", ""a white sleepy furry gorilla"", ""a baby frog""]",3,7,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0033,a teal banana,"[""a teal banana""]",1,1,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0034,a furry gorilla,"[""a furry gorilla""]",1,1,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0035,a purple checkered clock,"[""a purple checkered clock""]",1,2,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0036,a metal bowl,"[""a metal bowl""]",1,1,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0037,a blue tomato,"[""a blue tomato""]",1,1,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0038,a teal camera and a skewered tomato and a pink surfboard,"[""a teal camera"", ""a skewered tomato"", ""a pink surfboard""]",3,3,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0039,a checkered chair,"[""a checkered chair""]",1,1,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0040,a modern wooden suitcase and a furry spotted dog,"[""a modern wooden suitcase"", ""a furry spotted dog""]",2,4,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0041,a spotted bench and a modern checkered balloon and a pink spotted balloon,"[""a spotted bench"", ""a modern checkered balloon"", ""a pink spotted balloon""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0042,a sleepy baby cat and a spotted sleepy turtle,"[""a sleepy baby cat"", ""a spotted sleepy turtle""]",2,4,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0043,a baby sleepy penguin and a spotted monkey and an orange suitcase,"[""a baby sleepy penguin"", ""a spotted monkey"", ""an orange suitcase""]",3,4,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0044,a spotted furry monkey,"[""a spotted furry monkey""]",1,2,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0045,a red bicycle,"[""a red bicycle""]",1,1,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0046,a yellow skewered strawberry and a baby turtle,"[""a yellow skewered strawberry"", ""a baby turtle""]",2,3,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0047,a skewered apple and a gray metal wooden camera,"[""a skewered apple"", ""a gray metal wooden camera""]",2,4,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0048,a sliced tomato and a skewered banana,"[""a sliced tomato"", ""a skewered banana""]",2,2,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0049,a skewered strawberry and a modern bench,"[""a skewered strawberry"", ""a modern bench""]",2,2,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0050,a yellow sliced banana and a green horse,"[""a yellow sliced banana"", ""a green horse""]",2,3,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0051,a purple wooden curved umbrella and a skewered banana and a green checkered chair,"[""a purple wooden curved umbrella"", ""a skewered banana"", ""a green checkered chair""]",3,6,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0052,a black bird,"[""a black bird""]",1,1,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0053,a spotted furry cat and a spotted bird and a curved checkered bicycle,"[""a spotted furry cat"", ""a spotted bird"", ""a curved checkered bicycle""]",3,5,SynGen official dvmp.py,num_phrases_3,0,0,multi_attribute
+DVMP,formal,dvmp_0054,a skewered apple,"[""a skewered apple""]",1,1,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0055,a red banana and a metal balloon and a green skewered banana,"[""a red banana"", ""a metal balloon"", ""a green skewered banana""]",3,4,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0056,a spotted sleepy elephant and a spotted furry bird and a green baby furry dog,"[""a spotted sleepy elephant"", ""a spotted furry bird"", ""a green baby furry dog""]",3,7,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0057,a sleepy bear and an orange skewered apple,"[""a sleepy bear"", ""an orange skewered apple""]",2,3,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0058,a brown tomato and a green spotted guitar,"[""a brown tomato"", ""a green spotted guitar""]",2,3,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0059,a furry sleepy monkey and a sleepy rabbit and a teal modern wooden bowl,"[""a furry sleepy monkey"", ""a sleepy rabbit"", ""a teal modern wooden bowl""]",3,6,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0060,a spotted crown and a baby furry bird and a black baby penguin,"[""a spotted crown"", ""a baby furry bird"", ""a black baby penguin""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0061,a metal wooden balloon and a sliced tomato and a spotted sleepy mouse,"[""a metal wooden balloon"", ""a sliced tomato"", ""a spotted sleepy mouse""]",3,5,SynGen official dvmp.py,num_phrases_3,0,0,multi_attribute
+DVMP,formal,dvmp_0062,a wooden bowl and a checkered metal hat,"[""a wooden bowl"", ""a checkered metal hat""]",2,3,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0063,a blue monkey,"[""a blue monkey""]",1,1,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0064,an orange balloon and a teal furry baby frog,"[""an orange balloon"", ""a teal furry baby frog""]",2,4,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0065,a white backpack and a sliced strawberry,"[""a white backpack"", ""a sliced strawberry""]",2,2,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0066,a wooden skateboard and a baby mouse and a blue spiky bench,"[""a wooden skateboard"", ""a baby mouse"", ""a blue spiky bench""]",3,4,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0067,a red baby frog,"[""a red baby frog""]",1,2,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0068,a brown skewered banana and a checkered modern camera and an orange apple,"[""a brown skewered banana"", ""a checkered modern camera"", ""an orange apple""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0069,a brown furry spotted gorilla,"[""a brown furry spotted gorilla""]",1,3,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0070,a black skewered apple,"[""a black skewered apple""]",1,2,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0071,a modern shoe and a purple car and a brown tomato,"[""a modern shoe"", ""a purple car"", ""a brown tomato""]",3,3,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0072,a brown modern metal bowl and a black car and a blue chair,"[""a brown modern metal bowl"", ""a black car"", ""a blue chair""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0073,a baby sleepy zebra and a sliced strawberry,"[""a baby sleepy zebra"", ""a sliced strawberry""]",2,3,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0074,a brown banana and a purple spotted spiky camera,"[""a brown banana"", ""a purple spotted spiky camera""]",2,4,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0075,a green wooden modern umbrella,"[""a green wooden modern umbrella""]",1,3,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0076,a teal skewered apple,"[""a teal skewered apple""]",1,2,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0077,a skewered strawberry and a skewered banana,"[""a skewered strawberry"", ""a skewered banana""]",2,2,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0078,a spotted crown and a baby horse and a purple baby spotted zebra,"[""a spotted crown"", ""a baby horse"", ""a purple baby spotted zebra""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0079,a skewered strawberry and a sleepy furry elephant and a sleepy penguin,"[""a skewered strawberry"", ""a sleepy furry elephant"", ""a sleepy penguin""]",3,4,SynGen official dvmp.py,num_phrases_3,0,0,multi_attribute
+DVMP,formal,dvmp_0080,an orange guitar and a black furry baby zebra and a teal skewered apple,"[""an orange guitar"", ""a black furry baby zebra"", ""a teal skewered apple""]",3,6,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0081,a spotted bird and a sliced tomato,"[""a spotted bird"", ""a sliced tomato""]",2,2,SynGen official dvmp.py,num_phrases_2,0,0,multi_attribute
+DVMP,formal,dvmp_0082,a furry horse,"[""a furry horse""]",1,1,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0083,a baby spotted gorilla and a purple skewered banana,"[""a baby spotted gorilla"", ""a purple skewered banana""]",2,4,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0084,a green apple and a sliced banana,"[""a green apple"", ""a sliced banana""]",2,2,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0085,a blue bench,"[""a blue bench""]",1,1,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0086,a pink skewered tomato,"[""a pink skewered tomato""]",1,2,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0087,a furry bird and a white hat,"[""a furry bird"", ""a white hat""]",2,2,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0088,an orange banana and an orange skewered strawberry,"[""an orange banana"", ""an orange skewered strawberry""]",2,3,SynGen official dvmp.py,num_phrases_2,1,0,multi_attribute
+DVMP,formal,dvmp_0089,an orange spotted mouse,"[""an orange spotted mouse""]",1,2,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0090,a red wooden camera and a pink elephant and a modern bow,"[""a red wooden camera"", ""a pink elephant"", ""a modern bow""]",3,4,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0091,an orange bicycle and a black baby horse and a spotted baby penguin,"[""an orange bicycle"", ""a black baby horse"", ""a spotted baby penguin""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0092,a green curved guitar and a pink furry rabbit and a blue car,"[""a green curved guitar"", ""a pink furry rabbit"", ""a blue car""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0093,a white furry spotted rabbit and a curved modern bowl and a modern wooden umbrella,"[""a white furry spotted rabbit"", ""a curved modern bowl"", ""a modern wooden umbrella""]",3,7,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0094,a pink penguin and a spiky spotted skateboard and a baby furry cat,"[""a pink penguin"", ""a spiky spotted skateboard"", ""a baby furry cat""]",3,5,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0095,a spiky spotted bowl and a metal modern shoe and a furry baby zebra,"[""a spiky spotted bowl"", ""a metal modern shoe"", ""a furry baby zebra""]",3,6,SynGen official dvmp.py,num_phrases_3,0,0,multi_attribute
+DVMP,formal,dvmp_0096,a curved chair,"[""a curved chair""]",1,1,SynGen official dvmp.py,num_phrases_1,0,0,multi_attribute
+DVMP,formal,dvmp_0097,a red sliced tomato,"[""a red sliced tomato""]",1,2,SynGen official dvmp.py,num_phrases_1,1,0,multi_attribute
+DVMP,formal,dvmp_0098,a teal sleepy bird and a blue checkered shoe and a brown skewered tomato,"[""a teal sleepy bird"", ""a blue checkered shoe"", ""a brown skewered tomato""]",3,6,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
+DVMP,formal,dvmp_0099,a furry horse and a sliced apple and a purple cat,"[""a furry horse"", ""a sliced apple"", ""a purple cat""]",3,3,SynGen official dvmp.py,num_phrases_3,1,0,multi_attribute
